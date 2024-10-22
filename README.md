@@ -2,7 +2,7 @@
 <h3 align="center"><strong>DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering</strong></h3>
 
   <p align="center">
-    <a href=" https://scholar.google.com/citations?user=cRpteW4AAAAJ&hl=zh-CN">Jiahao Lu</a>,
+    <a href="https://scholar.google.com/citations?user=cRpteW4AAAAJ&hl=zh-CN/">Jiahao Lu</a>,
     <a href="">Jiacheng Deng</a>,
     <a href="https://ruijiezhu94.github.io/ruijiezhu/">Ruijie Zhu</a>,
     <a href="https://rosetta-leong.github.io/">Yanzhe Liang</a>,
@@ -22,7 +22,6 @@
 <!-- <a href='https://arxiv.org/abs/[]'><img src='https://img.shields.io/badge/arXiv-[]-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
  <a href='https://github.com/RuijieZhu94/MotionGS?tab=MIT-1-ov-file'><img src='https://img.shields.io/badge/License-MIT-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href='https://ruijiezhu94.github.io/MotionGS'><img src="https://visitor-badge.laobi.icu/badge?page_id=ruijiezhu94.motiongs"/></a>
 </div>
 
 
