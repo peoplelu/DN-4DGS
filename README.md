@@ -26,7 +26,11 @@
 
 
 <p align="center">
-<img src="assets/pipeline.png" width="97%"/>
+<img src="assets/motivation2.png" width="97%"/>
+</p>
+
+<p align="center">
+<img src="assets/framework.png" width="97%"/>
 </p>
 
 > The overall architecture of DN-4DGS. 1. We promose the Noise Suppression Strategy, which can change the distribution of the coordinates of the canonical 3D gaussians, suppress noise and generate a more precise deformation field. 2. We promose the Decoupled Temporal-Spatial Aggregation Module to aggregate information from adjacent points and frames.
