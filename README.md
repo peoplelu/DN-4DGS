@@ -44,5 +44,10 @@
 If you find our work useful in your research, please consider citing:
 
 ```
-
+@article{lu2024dn,
+  title={DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering},
+  author={Lu, Jiahao and Deng, Jiacheng and Zhu, Ruijie and Liang, Yanzhe and Yang, Wenfei and Zhang, Tianzhu and Zhou, Xu},
+  journal={arXiv preprint arXiv:2410.13607},
+  year={2024}
+}
 ```
